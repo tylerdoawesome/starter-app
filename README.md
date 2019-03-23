@@ -16,7 +16,7 @@ file, the browser will automagically reload and display with every save (cmd+s).
 ## Complete Getting Started Guide
 
 For a complete video guide for all you newbies on how to get up and running with zero
-experience, follow along with my [http://localhost:3000](Getting Started With CodeThis!) video.
+experience, follow along with my [Getting Started With CodeThis!](http://localhost:3000) video.
 
 <br>
 <br>
